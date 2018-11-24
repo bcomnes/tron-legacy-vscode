@@ -235,7 +235,6 @@
     {
       "name": "Class, Support",
       "scope": [
-        "entity.name",
         "support.type",
         "support.class",
         "support.orther.namespace.use.php",
@@ -245,7 +244,16 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#F79D1E"
+        "foreground": "#d0dfe6"
+      }
+    },
+    {
+      "name": "Entity Name",
+      "scope": [
+        "entity.name"
+      ],
+      "settings": {
+        "foreground": "#FFB20D"
       }
     },
     {
@@ -319,6 +327,33 @@
       ],
       "settings": {
         "foreground": "#FFB20D"
+      }
+    },
+    {
+      "name": "Separator",
+      "scope": [
+        "punctuation.separator.key-value.js"
+      ],
+      "settings": {
+        "foreground": "#FFB20D"
+      }
+    },
+    {
+      "name": "Null values",
+      "scope": [
+        "constant.language.null.js"
+      ],
+      "settings": {
+        "foreground": "#FFB20D",
+      }
+    },
+    {
+      "name": "Object key",
+      "scope": [
+        "meta.object-literal.key.js"
+      ],
+      "settings": {
+        "foreground": "#FF410D",
       }
     },
     {
@@ -433,7 +468,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#267fb5"
       }
     },
     {
@@ -599,7 +634,7 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#00A8C6"
+        "foreground": "#95CC5E"
       }
     },
     {
