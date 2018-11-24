@@ -37,7 +37,7 @@
     "tron"
   ],
   "license": "MIT",
-  "preview": true,
+  "preview": false,
   "publisher": "bcomnes",
   "repository": {
     "type": "git",
