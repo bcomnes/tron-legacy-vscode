@@ -20,6 +20,9 @@ For general information see [vsc-extension-quickstart.md](vsc-extension-quicksta
 - [Yo code generator](https://code.visualstudio.com/docs/extensions/yocode)
 - [Workbench Release notes](https://code.visualstudio.com/updates/v1_12#_workbench)
 - [vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator)
+- [extension-manifest](https://code.visualstudio.com/docs/extensionAPI/extension-manifest)
+- [publish-extension](https://code.visualstudio.com/docs/extensions/publish-extension)
+- [PAT Dashbaord](https://bcomnes.visualstudio.com/)
 
 ### Extensions overview
 
