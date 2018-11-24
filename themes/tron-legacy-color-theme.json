@@ -4,8 +4,9 @@
   "colors": {
     // "editor.background": "#14191f",
     // "editor.foreground": "#aec2e0",
-    "activityBarBadge.background": "#007acc",
+    // "activityBarBadge.background": "#007acc",
     // "sideBarTitle.foreground": "#aec2e0"
+    // ------ GENERATED COLORS BELOW
     "focusBorder": "#267fb5",
     "foreground": "#aec2e0",
     "dropdown.background": "#202831",
@@ -18,7 +19,7 @@
     "list.inactiveSelectionBackground": "#FFFFFF33",
     "activityBar.background": "#1c232b",
     "activityBar.dropBackground": "#267fb580",
-    // "activityBarBadge.background": "#267fb5",
+    "activityBarBadge.background": "#267fb5",
     "sideBar.background": "#181e25",
     "sideBarSectionHeader.background": "#1c232b",
     "editorGroup.dropBackground": "#267fb580",

@@ -16,6 +16,8 @@ For general information see [vsc-extension-quickstart.md](vsc-extension-quicksta
 -  Developer: Inspect TM Scopes to view scopes
 - [Scope naming overview](https://www.sublimetext.com/docs/3/scope_naming.html)
 - [Yo code generator](https://code.visualstudio.com/docs/extensions/yocode)
+- [Workbench Release notes](https://code.visualstudio.com/updates/v1_12#_workbench)
+- [vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator)
 
 ### Extensions overview
 
