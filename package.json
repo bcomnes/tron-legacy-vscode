@@ -14,7 +14,7 @@
             {
                 "label": "Tron Legacy",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Tron Legacy-color-theme.json"
+                "path": "./themes/tron-legacy-color-theme.json"
             }
         ]
     },
