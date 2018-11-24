@@ -17,5 +17,8 @@
                 "path": "./themes/Tron Legacy-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vscode-theme-generator": "0.0.20"
     }
 }
