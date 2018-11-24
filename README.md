@@ -2,13 +2,15 @@
 
 A hand edited port of the Tron Legacy theme.
 
+![](screenshot.png)
+
 ## Development
 
 For general information see [vsc-extension-quickstart.md](vsc-extension-quickstart.md).
 
 ## See also
 
-### Theme info:
+### Theming info:
 
 - [VSCode Themes](https://code.visualstudio.com/docs/getstarted/themes)
 - [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
@@ -23,6 +25,11 @@ For general information see [vsc-extension-quickstart.md](vsc-extension-quicksta
 
 - [extension-points#_contributescolors](https://code.visualstudio.com/docs/extensionAPI/extension-points#_contributescolors)
 - [Extensions overview](https://code.visualstudio.com/docs/extensions/overview)
+
+### Other IDEs
+
+- [bcomnes/atom-tron-legacy](https://github.com/bcomnes/atom-tron-legacy)
+- [bcomnes/sublime-tron-color-scheme](https://github.com/bcomnes/sublime-tron-color-scheme)
 
 ## Licence
 
