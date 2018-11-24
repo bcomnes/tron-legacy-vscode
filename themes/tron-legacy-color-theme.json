@@ -142,6 +142,15 @@
       }
     },
     {
+      "name": "JSX Text",
+      "scope": [
+        "meta.jsx.children.js"
+      ],
+      "settings": {
+        "foreground": "#aec2e0"
+      }
+    },
+    {
       "name": "Tag",
       "scope": [
         "entity.name.tag",
