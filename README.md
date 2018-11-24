@@ -2,7 +2,7 @@
 
 A hand edited port of the Tron Legacy theme.
 
-![](screenshot.png)
+![](images/screenshot.png)
 
 ## Development
 

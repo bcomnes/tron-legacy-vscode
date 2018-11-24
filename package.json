@@ -1,24 +1,46 @@
 {
-    "name": "tron-legacy",
-    "displayName": "Tron Legacy",
-    "description": "Tron Legacy with syntax extensions",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.29.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Tron Legacy",
-                "uiTheme": "vs-dark",
-                "path": "./themes/tron-legacy-color-theme.json"
-            }
-        ]
-    },
-    "devDependencies": {
-        "vscode-theme-generator": "0.0.20"
-    }
+  "name": "tron-legacy",
+  "description": "A hand ported Tron Legacy color theme for VSCode with syntax extensions",
+  "version": "0.0.1",
+  "author": "Bret Comnes <bcomnes@gmail.com> (https://bret.io)",
+  "bugs": {
+    "url": "https://github.com/bcomnes/tron-legacy-vscode/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tron Legacy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tron-legacy-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vscode-theme-generator": "0.0.20"
+  },
+  "displayName": "Tron Legacy",
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "galleryBanner": {
+    "color": "#14191f",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/bcomnes/tron-legacy-vscode#readme",
+  "icon": "images/icon.png",
+  "keywords": [
+    "dark",
+    "legacy",
+    "tron"
+  ],
+  "license": "MIT",
+  "preview": true,
+  "publisher": "bcomnes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcomnes/tron-legacy-vscode.git"
+  }
 }
