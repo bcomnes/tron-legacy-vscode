@@ -212,6 +212,15 @@
       }
     },
     {
+      "name": "Go Import Name",
+      "scope": [
+        "entity.name.import.go"
+      ],
+      "settings": {
+        "foreground": "#95CC5E"
+      }
+    },
+    {
       "name": "Constant, Tag Attribute, Embedded",
       "scope": [
         "constant.language",
