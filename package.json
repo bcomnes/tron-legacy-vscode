@@ -19,7 +19,7 @@
     ]
   },
   "devDependencies": {
-    "vscode-theme-generator": "^0.2.0"
+    "vscode-theme-generator": "0.0.20"
   },
   "displayName": "Tron Legacy",
   "engines": {
