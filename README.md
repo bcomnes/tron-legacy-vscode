@@ -33,6 +33,8 @@ For general information see [vsc-extension-quickstart.md](vsc-extension-quicksta
 
 - [bcomnes/atom-tron-legacy](https://github.com/bcomnes/atom-tron-legacy)
 - [bcomnes/sublime-tron-color-scheme](https://github.com/bcomnes/sublime-tron-color-scheme)
+- [zed-theme-tron-legacy)](https://github.com/bcomnes/zed-theme-tron-legacy)
+- [Antigravity IDE](https://github.com/migs647/Tron-Theme-Antigravity)
 
 ## Licence
 
